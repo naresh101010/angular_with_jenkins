@@ -9,6 +9,10 @@ import { TestComponent } from './test/test.component';
 import { HttpClientModule } from '@angular/common/http';
 import { ChildComponent } from './test/child/child.component';
 
+
+
+
+
 @NgModule({
   declarations: [AppComponent, TestDirectiveDirective, TestComponent, ChildComponent],
   imports: [
